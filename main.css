@@ -1,0 +1,13 @@
+body {
+    background-color: aqua;
+}
+
+.wrapper {
+    display: flex;
+    flex-wrap: wrap;
+    align-content: flex-start;
+    height: 100%;
+  }
+  h3 {
+    width: 30%;
+  }
