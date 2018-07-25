@@ -48,7 +48,7 @@ addStuff.innerHTML +=
     <p>${storageObject.statement1.statement} (agree)</p>
     <p>${storageObject.statement2.statement} (nope-I'm all over the place)</p>
     <p>${storageObject.statement3.statement} (generally agree)</p>
-    <h2>People like me: </h2>
+    <h2>Wierdos like me: </h2>
     <h3>${storageObject.peopleLikeMe}</h3>
     <h2>How I prefer to be communicated to: </h2>
     <h3>${storageObject.communication}</h3>
